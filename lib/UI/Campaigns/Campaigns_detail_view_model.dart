@@ -1,4 +1,4 @@
-// lib/ui/views/campaigns/campaign_detail_viewmodel.dart
+
 
 import 'package:google_adds/App/locatore.dart';
 import 'package:google_adds/UI/Campaigns/Campaign_model%20.dart';
@@ -29,4 +29,3 @@ class CampaignDetailViewModel extends BaseViewModel {
       v >= 1000 ? '\$${(v / 1000).toStringAsFixed(1)}K' : '\$${v.toStringAsFixed(2)}';
 }
 
-// lib/ui/views/campaigns/campaign_detail_view.dart

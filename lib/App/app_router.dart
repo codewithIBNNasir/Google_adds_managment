@@ -1,4 +1,3 @@
-// lib/app/app.router.dart (manually written, no code gen needed)
 
 import 'package:flutter/material.dart';
 import 'package:google_adds/UI/Campaigns/Campaign_model%20.dart';

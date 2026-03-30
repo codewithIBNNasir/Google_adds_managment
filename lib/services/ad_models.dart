@@ -1,4 +1,4 @@
-// lib/models/ad_group_model.dart
+
 
 enum AdGroupStatus { active, paused, removed }
 
@@ -28,7 +28,6 @@ class AdGroupModel {
   });
 }
 
-// lib/models/ad_model.dart
 
 enum AdStatus { active, paused, removed, underReview, approved, disapproved }
 

@@ -1,5 +1,3 @@
-// lib/ui/views/campaigns/campaign_detail_view.dart
-
 import 'package:flutter/material.dart';
 import 'package:google_adds/UI/Campaigns/Campaign_model%20.dart';
 import 'package:google_adds/UI/Campaigns/Campaigns_detail_view_model.dart';

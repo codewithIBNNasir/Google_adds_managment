@@ -1,5 +1,3 @@
-// lib/ui/widgets/metric_card.dart
-
 import 'package:flutter/material.dart';
 import 'package:google_adds/UI/Theme/apptheme.dart';
 

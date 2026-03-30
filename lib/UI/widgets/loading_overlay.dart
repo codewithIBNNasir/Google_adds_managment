@@ -1,5 +1,3 @@
-// lib/ui/widgets/loading_overlay.dart
-
 import 'package:flutter/material.dart';
 import 'package:google_adds/UI/Theme/apptheme.dart';
 import 'package:shimmer/shimmer.dart';

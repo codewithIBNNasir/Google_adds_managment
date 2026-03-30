@@ -1,4 +1,3 @@
-// lib/models/campaign_model.dart
 
 enum CampaignStatus { active, paused, removed, ended }
 

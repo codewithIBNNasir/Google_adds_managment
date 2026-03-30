@@ -1,4 +1,4 @@
-// lib/models/analytics_model.dart
+
 
 class DailyMetric {
   final DateTime date;

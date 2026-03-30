@@ -1,5 +1,3 @@
-// lib/ui/views/dashboard/dashboard_view.dart
-
 import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
 import 'package:google_adds/UI/Campaigns/Campaign_model%20.dart';

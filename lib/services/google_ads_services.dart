@@ -1,4 +1,4 @@
-// lib/services/google_ads_service.dart
+
 
 import 'dart:math';
 import 'package:google_adds/UI/Campaigns/Campaign_model%20.dart';
@@ -10,7 +10,7 @@ import 'package:google_adds/services/ad_models.dart';
 class GoogleAdsService {
   final _random = Random();
 
-  // Simulate API delay
+ 
   Future<void> _delay() async =>
       await Future.delayed(const Duration(milliseconds: 800));
 

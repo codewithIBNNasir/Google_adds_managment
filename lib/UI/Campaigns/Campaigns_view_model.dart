@@ -1,5 +1,3 @@
-// lib/ui/views/campaigns/campaigns_viewmodel.dart
-
 import 'package:google_adds/App/locatore.dart';
 import 'package:google_adds/UI/Campaigns/Campaign_model%20.dart';
 import 'package:google_adds/services/google_ads_services.dart';
